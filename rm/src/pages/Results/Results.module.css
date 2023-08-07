@@ -1,0 +1,3 @@
+.togglebutton:focus + button {
+    display: block !important;
+}

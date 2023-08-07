@@ -1,0 +1,729 @@
+[
+  {
+    "product": "Factoring CB",
+    "department": "6476214476caf6d2144cd852",
+    "productCode": "product"
+  },
+  {
+    "product": "Salary",
+    "department": "6476214476caf6d2144cd852",
+    "productCode": "product"
+  },
+  {
+    "product": "Kontokorrent",
+    "department": "6476214476caf6d2144cd852",
+    "productCode": "product"
+  },
+  {
+    "product": "Working capital",
+    "department": "6476214476caf6d2144cd852",
+    "productCode": "product"
+  },
+  {
+    "product": "Syndicate",
+    "department": "6476214476caf6d2144cd852",
+    "productCode": "product"
+  },
+  {
+    "product": "Guarantee",
+    "department": "6476214476caf6d2144cd852",
+    "productCode": "product"
+  },
+  {
+    "product": "Pre-export financing",
+    "department": "6476214476caf6d2144cd852",
+    "productCode": "product"
+  },
+  {
+    "product": "Development",
+    "department": "6476214476caf6d2144cd852",
+    "productCode": "product"
+  },
+  {
+    "product": "Global limit",
+    "department": "6476214476caf6d2144cd852",
+    "productCode": "product"
+  },
+  {
+    "product": "Build-Up",
+    "department": "6476214476caf6d2144cd852",
+    "productCode": "product"
+  },
+  {
+    "product": "Construct",
+    "department": "6476214476caf6d2144cd852",
+    "productCode": "product"
+  },
+  {
+    "product": "Online revolver",
+    "department": "6476214476caf6d2144cd852",
+    "productCode": "product"
+  },
+  {
+    "product": "Banking services for cash transactions",
+    "department": "6476214476caf6d2144cd852",
+    "productCode": "service"
+  },
+  {
+    "product": "Terminal CB",
+    "department": "6476214476caf6d2144cd852",
+    "productCode": "product"
+  },
+  {
+    "product": "Corporate card service for legal entities (issued by the bank)",
+    "department": "6476214476caf6d2144cd852",
+    "productCode": "service"
+  },
+  {
+    "product": "Term deposits for legal entities",
+    "department": "6476214476caf6d2144cd852",
+    "productCode": "product"
+  },
+  {
+    "product": "Savings deposits for legal entities",
+    "department": "6476214476caf6d2144cd852",
+    "productCode": "product"
+  },
+  {
+    "product": "Financial consulting",
+    "department": "6476214476caf6d2144cd852",
+    "productCode": "service"
+  },
+  {
+    "product": "Corporate Card",
+    "department": "6476214476caf6d2144cd852",
+    "productCode": "service"
+  },
+  {
+    "product": "Internet acquiring",
+    "department": "6476214476caf6d2144cd852",
+    "productCode": "service"
+  },
+  {
+    "product": "Corporate investment deposit",
+    "department": "6476214476caf6d2144cd852",
+    "productCode": "service"
+  },
+  {
+    "product": "Micro",
+    "department": "6476214476caf6d2144cd853",
+    "productCode": "product"
+  },
+  {
+    "product": "KONTOKORRENT SME",
+    "department": "6476214476caf6d2144cd853",
+    "productCode": "product"
+  },
+  {
+    "product": "Loan product 'Drive'",
+    "department": "6476214476caf6d2144cd853",
+    "productCode": "product"
+  },
+  {
+    "product": "Turnover loan",
+    "department": "6476214476caf6d2144cd853",
+    "productCode": "product"
+  },
+  {
+    "product": "Obod Makon",
+    "department": "6476214476caf6d2144cd853",
+    "productCode": "product"
+  },
+  {
+    "product": "Invest",
+    "department": "6476214476caf6d2144cd853",
+    "productCode": "product"
+  },
+  {
+    "product": "Taraqqiyot",
+    "department": "6476214476caf6d2144cd853",
+    "productCode": "product"
+  },
+  {
+    "product": "Ayol Tadbirkor",
+    "department": "6476214476caf6d2144cd853",
+    "productCode": "product"
+  },
+  {
+    "product": "Yosh tadbirkor",
+    "department": "6476214476caf6d2144cd853",
+    "productCode": "product"
+  },
+  {
+    "product": "Factoring SMB",
+    "department": "6476214476caf6d2144cd853",
+    "productCode": "product"
+  },
+  {
+    "product": "Leasing",
+    "department": "6476214476caf6d2144cd853",
+    "productCode": "product"
+  },
+  {
+    "product": "Export promotion",
+    "department": "6476214476caf6d2144cd853",
+    "productCode": "product"
+  },
+  {
+    "product": "Warranty",
+    "department": "6476214476caf6d2144cd853",
+    "productCode": "product"
+  },
+  {
+    "product": "Autocredit SMB",
+    "department": "6476214476caf6d2144cd853",
+    "productCode": "product"
+  },
+  {
+    "product": "Building materials circulation",
+    "department": "6476214476caf6d2144cd853",
+    "productCode": "product"
+  },
+  {
+    "product": "Investment in building materials",
+    "department": "6476214476caf6d2144cd853",
+    "productCode": "product"
+  },
+  {
+    "product": "Cash services in antional and foreign currencies for lrgal entities and private enterpreneurs",
+    "department": "6476214476caf6d2144cd853",
+    "productCode": "service"
+  },
+  {
+    "product": "Light starter pack",
+    "department": "6476214476caf6d2144cd853",
+    "productCode": "product"
+  },
+  {
+    "product": "Improvement pack",
+    "department": "6476214476caf6d2144cd853",
+    "productCode": "product"
+  },
+  {
+    "product": "Perfection pack",
+    "department": "6476214476caf6d2144cd853",
+    "productCode": "product"
+  },
+  {
+    "product": "Terminal SMB",
+    "department": "6476214476caf6d2144cd853",
+    "productCode": "product"
+  },
+  {
+    "product": "Corporate card service for legal and rpivate enterpereneurs (issued by the bank)",
+    "department": "6476214476caf6d2144cd853",
+    "productCode": "service"
+  },
+  {
+    "product": "Term deposits for legal and private enterpreneurs",
+    "department": "6476214476caf6d2144cd853",
+    "productCode": "service"
+  },
+  {
+    "product": "Term depost 'Classic'",
+    "department": "6476214476caf6d2144cd853",
+    "productCode": "product"
+  },
+  {
+    "product": "Savings deposit for legal and private enterpreneurs",
+    "department": "6476214476caf6d2144cd853",
+    "productCode": "service"
+  },
+  {
+    "product": "Tendenerga omad",
+    "department": "6476214476caf6d2144cd853",
+    "productCode": "product"
+  },
+  {
+    "product": "Loan for construction",
+    "department": "6476214476caf6d2144cd853",
+    "productCode": "product"
+  },
+  {
+    "product": "Corporate Green Loan",
+    "department": "6476214476caf6d2144cd854",
+    "productCode": "product"
+  },
+  {
+    "product": "SME Green Loan",
+    "department": "6476214476caf6d2144cd854",
+    "productCode": "product"
+  },
+  {
+    "product": "Green mortgage GB",
+    "department": "6476214476caf6d2144cd854",
+    "productCode": "product"
+  },
+  {
+    "product": "Online microloan-2 by JOYDA",
+    "department": "6476214476caf6d2144cd855",
+    "productCode": "product"
+  },
+  {
+    "product": "Mortgage 'Khamkor'",
+    "department": "6476214476caf6d2144cd855",
+    "productCode": "product"
+  },
+  {
+    "product": "Mortgage for house construction",
+    "department": "6476214476caf6d2144cd855",
+    "productCode": "product"
+  },
+  {
+    "product": "KIA-Autocredit",
+    "department": "6476214476caf6d2144cd855",
+    "productCode": "product"
+  },
+  {
+    "product": "KIA K5-Premium autocredit",
+    "department": "6476214476caf6d2144cd855",
+    "productCode": "product"
+  },
+  {
+    "product": "Green product loan",
+    "department": "6476214476caf6d2144cd855",
+    "productCode": "product"
+  },
+  {
+    "product": "Xamkor online",
+    "department": "6476214476caf6d2144cd855",
+    "productCode": "product"
+  },
+  {
+    "product": "JOYDA card",
+    "department": "6476214476caf6d2144cd855",
+    "productCode": "product"
+  },
+  {
+    "product": "Online microloan by JOYDA",
+    "department": "6476214476caf6d2144cd855",
+    "productCode": "product"
+  },
+  {
+    "product": "Payment for utility",
+    "department": "6476214476caf6d2144cd855",
+    "productCode": "product"
+  },
+  {
+    "product": "Microloan",
+    "department": "6476214476caf6d2144cd855",
+    "productCode": "product"
+  },
+  {
+    "product": "Autocredit RBD",
+    "department": "6476214476caf6d2144cd855",
+    "productCode": "product"
+  },
+  {
+    "product": "Mortgage ((PF-5886)",
+    "department": "6476214476caf6d2144cd855",
+    "productCode": "product"
+  },
+  {
+    "product": "Mortgage (Investment in city construction)",
+    "department": "6476214476caf6d2144cd855",
+    "productCode": "product"
+  },
+  {
+    "product": "Green mortgage RDB",
+    "department": "6476214476caf6d2144cd855",
+    "productCode": "product"
+  },
+  {
+    "product": "Motgage (Investment in village construction)",
+    "department": "6476214476caf6d2144cd855",
+    "productCode": "product"
+  },
+  {
+    "product": "Mortgage (own funds)",
+    "department": "6476214476caf6d2144cd855",
+    "productCode": "product"
+  },
+  {
+    "product": "Loan for education",
+    "department": "6476214476caf6d2144cd855",
+    "productCode": "product"
+  },
+  {
+    "product": "Overdraft",
+    "department": "6476214476caf6d2144cd855",
+    "productCode": "product"
+  },
+  {
+    "product": "Consumption",
+    "department": "6476214476caf6d2144cd855",
+    "productCode": "product"
+  },
+  {
+    "product": "Mortgage for new house 2",
+    "department": "6476214476caf6d2144cd855",
+    "productCode": "product"
+  },
+  {
+    "product": "Sum, Ruble, USD, Euro, Franc, Yena, Pound on demand",
+    "department": "6476214476caf6d2144cd855",
+    "productCode": "product"
+  },
+  {
+    "product": "Spring investment",
+    "department": "6476214476caf6d2144cd855",
+    "productCode": "product"
+  },
+  {
+    "product": "Spring gift",
+    "department": "6476214476caf6d2144cd855",
+    "productCode": "product"
+  },
+  {
+    "product": "Golden autumn",
+    "department": "6476214476caf6d2144cd855",
+    "productCode": "product"
+  },
+  {
+    "product": "Autumn freshness",
+    "department": "6476214476caf6d2144cd855",
+    "productCode": "product"
+  },
+  {
+    "product": "Warranty-3",
+    "department": "6476214476caf6d2144cd855",
+    "productCode": "product"
+  },
+  {
+    "product": "Capital",
+    "department": "6476214476caf6d2144cd855",
+    "productCode": "product"
+  },
+  {
+    "product": "Purposeful savings deposit in national currency",
+    "department": "6476214476caf6d2144cd855",
+    "productCode": "product"
+  },
+  {
+    "product": "Zoloraya korona",
+    "department": "6476214476caf6d2144cd855",
+    "productCode": "product"
+  },
+  {
+    "product": "Unistream",
+    "department": "6476214476caf6d2144cd855",
+    "productCode": "product"
+  },
+  {
+    "product": "Western Union",
+    "department": "6476214476caf6d2144cd855",
+    "productCode": "product"
+  },
+  {
+    "product": "Contact",
+    "department": "6476214476caf6d2144cd855",
+    "productCode": "product"
+  },
+  {
+    "product": "RIA",
+    "department": "6476214476caf6d2144cd855",
+    "productCode": "product"
+  },
+  {
+    "product": "Aziya Ekspress",
+    "department": "6476214476caf6d2144cd855",
+    "productCode": "product"
+  },
+  {
+    "product": "O'zbekiston ekspress",
+    "department": "6476214476caf6d2144cd855",
+    "productCode": "product"
+  },
+  {
+    "product": "SWIFT",
+    "department": "6476214476caf6d2144cd855",
+    "productCode": "product"
+  },
+  {
+    "product": "Plastic card (Visa, Mastercard, UnionPay, Uzcard, Humo)",
+    "department": "6476214476caf6d2144cd855",
+    "productCode": "product"
+  },
+  {
+    "product": "Rent of safe deposit box",
+    "department": "6476214476caf6d2144cd855",
+    "productCode": "product"
+  },
+  {
+    "product": "Dimensional rings made of precious metals",
+    "department": "6476214476caf6d2144cd855",
+    "productCode": "product"
+  },
+  {
+    "product": "Souvenir coins",
+    "department": "6476214476caf6d2144cd855",
+    "productCode": "product"
+  },
+  {
+    "product": "ATM",
+    "department": "6476214476caf6d2144cd855",
+    "productCode": "product"
+  },
+  {
+    "product": "Drawing pictures on top of cards of partner banks and other banks",
+    "department": "6476214476caf6d2144cd855",
+    "productCode": "service"
+  },
+  {
+    "product": "Cash services in national and foreign currencies for individuals",
+    "department": "6476214476caf6d2144cd855",
+    "productCode": "service"
+  },
+  {
+    "product": "Payment services for individuals",
+    "department": "6476214476caf6d2144cd855",
+    "productCode": "service"
+  },
+  {
+    "product": "Foreign exchange for individuals",
+    "department": "6476214476caf6d2144cd855",
+    "productCode": "service"
+  },
+  {
+    "product": "Cash purchase service (for carrying out bank transactions in cash currency)",
+    "department": "6476214476caf6d2144cd855",
+    "productCode": "service"
+  },
+  {
+    "product": "Insurance for individuals",
+    "department": "6476214476caf6d2144cd855",
+    "productCode": "service"
+  },
+  {
+    "product": "Plastic cards for individuals (produced by bank)",
+    "department": "6476214476caf6d2144cd855",
+    "productCode": "service"
+  },
+  {
+    "product": "Rate package 'Corporate'",
+    "department": "6476214476caf6d2144cd855",
+    "productCode": "product"
+  },
+  {
+    "product": "New deposit 'Ishonch'",
+    "department": "6476214476caf6d2144cd855",
+    "productCode": "product"
+  },
+  {
+    "product": "New deposit 'Yuksalish'",
+    "department": "6476214476caf6d2144cd855",
+    "productCode": "product"
+  },
+  {
+    "product": "New deposit 'Kelajakka sarmoya'",
+    "department": "6476214476caf6d2144cd855",
+    "productCode": "product"
+  },
+  {
+    "product": "CashBack",
+    "department": "6476214476caf6d2144cd855",
+    "productCode": "product"
+  },
+  {
+    "product": "Green product- online",
+    "department": "6476214476caf6d2144cd855",
+    "productCode": "product"
+  },
+  {
+    "product": "Conversion operations of legal entities, bank currency position service",
+    "department": "6476214476caf6d2144cd856",
+    "productCode": "service"
+  },
+  {
+    "product": "Letter of credit for Import agreements",
+    "department": "6476214476caf6d2144cd856",
+    "productCode": "product"
+  },
+  {
+    "product": "Letter of credit for export agreements",
+    "department": "6476214476caf6d2144cd856",
+    "productCode": "product"
+  },
+  {
+    "product": "Nostro accounts for commercial banks",
+    "department": "6476214476caf6d2144cd856",
+    "productCode": "service"
+  },
+  {
+    "product": "Correspondence and other service for customer requests",
+    "department": "6476214476caf6d2144cd856",
+    "productCode": "service"
+  },
+  {
+    "product": "Monitoring service of import and export transactions",
+    "department": "6476214476caf6d2144cd856",
+    "productCode": "service"
+  },
+  {
+    "product": "Nostro account in foreign currency in CBU",
+    "department": "6476214476caf6d2144cd856",
+    "productCode": "service"
+  },
+  {
+    "product": "Loro accounts of commercial banks",
+    "department": "6476214476caf6d2144cd856",
+    "productCode": "service"
+  },
+  {
+    "product": "Cash collection service",
+    "department": "6476214476caf6d2144cd856",
+    "productCode": "service"
+  },
+  {
+    "product": "REPO contracts with CBU",
+    "department": "6476214476caf6d2144cd857",
+    "productCode": "service"
+  },
+  {
+    "product": "Conversion operations of legal entities from freely convertible currency to freely convertible currency in the interbank market",
+    "department": "6476214476caf6d2144cd857",
+    "productCode": "service"
+  },
+  {
+    "product": "Due from banks",
+    "department": "6476214476caf6d2144cd857",
+    "productCode": "service"
+  },
+  {
+    "product": "Due to banks",
+    "department": "6476214476caf6d2144cd857",
+    "productCode": "service"
+  },
+  {
+    "product": "Nostro account in CBU and deposit",
+    "department": "6476214476caf6d2144cd857",
+    "productCode": "service"
+  },
+  {
+    "product": "Swap-sell/buy foreign currency from client",
+    "department": "6476214476caf6d2144cd857",
+    "productCode": "service"
+  },
+  {
+    "product": "Swap-sell/buy foreign currency from CBU",
+    "department": "6476214476caf6d2144cd857",
+    "productCode": "service"
+  },
+  {
+    "product": "Investment in state securities",
+    "department": "6476214476caf6d2144cd857",
+    "productCode": "service"
+  },
+  {
+    "product": "Operations related to derivatives",
+    "department": "6476214476caf6d2144cd857",
+    "productCode": "service"
+  },
+  {
+    "product": "Foreign exchange service through UzRVB",
+    "department": "6476214476caf6d2144cd857",
+    "productCode": "service"
+  },
+  {
+    "product": "Straight REPO operations with clients",
+    "department": "6476214476caf6d2144cd857",
+    "productCode": "service"
+  },
+  {
+    "product": "Investments in subsidiaries and other enterprises",
+    "department": "6476214476caf6d2144cd857",
+    "productCode": "service"
+  },
+  {
+    "product": "Investments in securities",
+    "department": "6476214476caf6d2144cd857",
+    "productCode": "service"
+  },
+  {
+    "product": "Investment service in corporate debt securities",
+    "department": "6476214476caf6d2144cd857",
+    "productCode": "service"
+  },
+  {
+    "product": "Services to clients on the organization of the issuance of securities",
+    "department": "6476214476caf6d2144cd857",
+    "productCode": "service"
+  },
+  {
+    "product": "Attracting loans from the Central Bank",
+    "department": "6476214476caf6d2144cd858",
+    "productCode": "service"
+  },
+  {
+    "product": "Attracting loans from the government and the Ministry of Finance",
+    "department": "6476214476caf6d2144cd858",
+    "productCode": "service"
+  },
+  {
+    "product": "Attracting loans from fund of reconstruction and development",
+    "department": "6476214476caf6d2144cd858",
+    "productCode": "service"
+  },
+  {
+    "product": "Attracting loans from off-budget funds",
+    "department": "6476214476caf6d2144cd858",
+    "productCode": "service"
+  },
+  {
+    "product": "Certificates of deposit",
+    "department": "6476214476caf6d2144cd858",
+    "productCode": "product"
+  },
+  {
+    "product": "Subordinated debt obligations",
+    "department": "6476214476caf6d2144cd858",
+    "productCode": "service"
+  },
+  {
+    "product": "Placement of Eurobonds",
+    "department": "6476214476caf6d2144cd858",
+    "productCode": "product"
+  },
+  {
+    "product": "Placement of corporate bonds",
+    "department": "6476214476caf6d2144cd858",
+    "productCode": "product"
+  },
+  {
+    "product": "Attracting funds from financial institutions and investors",
+    "department": "6476214476caf6d2144cd858",
+    "productCode": "service"
+  },
+  {
+    "product": "Sale of assets subject to installments",
+    "department": "6476214476caf6d2144cd859",
+    "productCode": "service"
+  },
+  {
+    "product": "Service for issuing and servicing plastic cards in the bank's processing center system",
+    "department": "6476214476caf6d2144cd85a",
+    "productCode": "service"
+  },
+  {
+    "product": "'Nostro' representative number service for payment by plastic cards",
+    "department": "6476214476caf6d2144cd85a",
+    "productCode": "service"
+  },
+  {
+    "product": "Services to holders of cards issued by other banks",
+    "department": "6476214476caf6d2144cd85a",
+    "productCode": "service"
+  },
+  {
+    "_id": "647716b7a3cdde2d0d4b8211",
+    "product": "Loan 'white gold'",
+    "department": {
+      "_id": "6476214476caf6d2144cd85b",
+      "department": "Агросаноат кластерлари фаолиятини мувофиклаштириш бошкармаси"
+    },
+    "productCode": "product",
+    "__v": 0,
+    "createdAt": "2023-05-31T09:43:19.049Z",
+    "updatedAt": "2023-05-31T09:43:19.049Z"
+  }
+]

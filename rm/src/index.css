@@ -1,0 +1,48 @@
+.doc-tablewrapper {
+  overflow: auto;
+  background: var(--surface-card);
+  padding: 2rem;
+  border-radius: 10px;
+  margin-bottom: 1rem;
+}
+
+.doc-table {
+  border-collapse: collapse;
+  width: 100%;
+  min-width: 960px;
+  background-color: #fff;
+  margin-bottom: 1.5rem;
+}
+
+.doc-table th {
+  border-bottom: 1px solid var(--surface-border);
+  padding: 1rem;
+  text-align: left;
+  text-transform: capitalize;
+}
+
+th {
+  display: table-cell;
+  vertical-align: inherit;
+  font-weight: bold;
+  text-align: -internal-center;
+}
+
+.doc-table tbody td {
+  padding: 1rem;
+  border-bottom: 1px solid var(--surface-border);
+  white-space: pre-wrap;
+  line-height: 1.5;
+}
+
+thead {
+  display: table-header-group;
+  vertical-align: middle;
+  border-color: inherit;
+}
+
+tr {
+  display: table-row;
+  vertical-align: inherit;
+  border-color: inherit;
+}
